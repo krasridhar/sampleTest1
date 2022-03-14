@@ -1,0 +1,4 @@
+testGITIgnore/
+test-output/*.txt
+.classpath
+*.tmp
