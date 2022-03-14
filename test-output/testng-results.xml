@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12938" started-at="2022-02-11T02:54:25Z" finished-at="2022-02-11T02:54:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12938" started-at="2022-02-11T02:54:25Z" finished-at="2022-02-11T02:54:38Z">
+      <class name="com.opencart.tests.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.opencart.tests.LoginPageTest@2038ae61]" name="setUp" is-config="true" duration-ms="9746" started-at="2022-02-11T02:54:25Z" finished-at="2022-02-11T02:54:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="doLoginTest()[pri:0, instance:com.opencart.tests.LoginPageTest@2038ae61]" name="doLoginTest" duration-ms="3010" started-at="2022-02-11T02:54:35Z" finished-at="2022-02-11T02:54:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLoginTest -->
+        <test-method status="PASS" signature="getPageLogoTest()[pri:0, instance:com.opencart.tests.LoginPageTest@2038ae61]" name="getPageLogoTest" duration-ms="44" started-at="2022-02-11T02:54:38Z" finished-at="2022-02-11T02:54:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPageLogoTest -->
+        <test-method status="PASS" signature="getPageTitleTest()[pri:0, instance:com.opencart.tests.LoginPageTest@2038ae61]" name="getPageTitleTest" duration-ms="11" started-at="2022-02-11T02:54:38Z" finished-at="2022-02-11T02:54:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.opencart.tests.LoginPageTest@2038ae61]" name="tearDown" is-config="true" duration-ms="78" started-at="2022-02-11T02:54:38Z" finished-at="2022-02-11T02:54:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.opencart.tests.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
